@@ -1,0 +1,6 @@
+[submodule "kodiki-aviahack"]
+	path = kodiki-aviahack
+	url = git@github.com:TeaDove/kodiki-aviahack.git
+[submodule "aviahack_2022"]
+	path = aviahack_2022
+	url = git@github.com:SOpatrin/aviahack_2022.git
